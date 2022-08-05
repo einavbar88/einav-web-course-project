@@ -1,0 +1,18 @@
+.about-us__container{
+    max-width: 1200px;
+    width: 75%;
+    text-align: center;
+}
+
+.about-us__container h1{
+    padding: 1rem 0;
+    font-size: 4rem;
+    color: #006a4e;
+}
+.about-us__container p{
+    padding: 1rem 0;
+}
+
+.about-us__container img{
+    width: 100%;
+}
